@@ -21,3 +21,29 @@
     
     
 // });
+
+// let number1;
+// let number2;
+// let x=0;
+// switch (x) {
+//     case '+': 
+//     sum=number1+number2   
+//         console.log(sum);
+//         break;
+//     case '-': 
+//     sum=number1-number2   
+//         console.log(sum);
+//         break;
+//     case '*': 
+//     sum=number1*number2   
+//         console.log(sum);
+//         break;
+//     case '/': 
+//     sum=number1/number2   
+//         console.log(sum);
+//         break;
+    
+//     default:
+//         text="enter correct element"
+//         break;
+// }
